@@ -78,3 +78,8 @@ The **Personal Productivity Tracker** is a Chrome Extension designed to help use
 - 🤖 **AI-Based Suggestions**: Recommends optimal work/break times.  
 - 👥 **Team Productivity Monitoring**: Track productivity across remote teams.  
 - ✅ **Task-Based Monitoring**: Integration with tools like Todoist or Notion.
+
+---
+## OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c4bf8a97-ad90-48a6-8669-570a264ffc48)
